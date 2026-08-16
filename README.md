@@ -40,4 +40,5 @@ This project delivers an end-to-end data-driven machine learning framework desig
    pip install -r requirements.txt
 3. **Run Notebook:**
    ```Execute
-   Integrated_Retail_Analytics_for_Store_Optimization.ipynb in Jupyter Notebook or Google Colab.
+   Integrated_Retail_Analytics_for_Store_Optimization.ipynb
+   **in Jupyter Notebook or Google Colab.**
