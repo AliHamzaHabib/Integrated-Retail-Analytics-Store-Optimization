@@ -30,7 +30,14 @@ This project delivers an end-to-end data-driven machine learning framework desig
 ---
 
 ## 🚀 Quickstart Guide
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AliHamzaHabib/Integrated-Retail-Analytics-Store-Optimization.git](https://github.com/AliHamzaHabib/Integrated-Retail-Analytics-Store-Optimization.git)
    cd Integrated-Retail-Analytics-Store-Optimization
+2. **install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+3. **Run Notebook:**
+   ```Execute
+   Integrated_Retail_Analytics_for_Store_Optimization.ipynb in Jupyter Notebook or Google Colab.
