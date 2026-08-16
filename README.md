@@ -41,4 +41,4 @@ This project delivers an end-to-end data-driven machine learning framework desig
 3. **Run Notebook:**
    ```Execute
    Integrated_Retail_Analytics_for_Store_Optimization.ipynb
-   **in Jupyter Notebook or Google Colab.**
+**in Jupyter Notebook or Google Colab.**
